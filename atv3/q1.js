@@ -1,3 +1,5 @@
+window.alert("Verificando login e senha coincidentes")
+
 var login = prompt('login')
 var pass = prompt('senha')
 
