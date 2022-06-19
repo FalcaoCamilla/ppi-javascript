@@ -1,3 +1,5 @@
+/* introdução ao typescript */
+
 $('#btn').on('click', principal);
 /*$('id').on('evento', função) */
 
